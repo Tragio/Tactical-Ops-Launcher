@@ -4,7 +4,7 @@
   "pub_date": "2023-02-13T21:10:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDMxQjA3MTM4MUY2RjMzRDMKUldUVE0yOGZPSEd3TVNKMnhJSHltd21raDBTRjljTW0rT1VXeS82RFR6blZuUElNSVVTQS9EcEIK",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVE0yOGZPSEd3TWQzaDMxRGtUOTBaWFpRanQwRzF1bTVwVkJtMTcveEw4L1d0RnNJUzNuZW1jekVrR2pyb0MzWlBrS0I3dzBJaFpmd3o2Sm95UmlZd1ZlSGt3S09zR3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc2MzIyNDYzCWZpbGU6VGFjdGljYWwgT3BzIExhdW5jaGVyXzEuMC4wX3g2NF9lbi1VUy5tc2kuemlwCnFkbkdWVmNxa2kyd2srekR0RkZMM1RINStia3hSOFExejdURGx0dlliM250L3BkZmkrcStIN0FoOXZDKzBBNnBJUEc0bmZPRUlqQ2g3T2laV0RJSkRnPT0K",
       "url": "https://github.com/Tragio/TacticalOps-Launcher/releases/download/to-v1.0.0/Tactical.Ops.Launcher_1.0.0_x64_en-US.msi"
     }
   }
