@@ -1,11 +1,11 @@
 {
-  "version": "v2.3.0",
-  "notes": "Display the map name on the server list, fixed images and save window state.",
-  "pub_date": "2023-04-16T19:00:00Z",
+  "version": "v2.5.0",
+  "notes": "Updated dependencies and little tweaks.",
+  "pub_date": "2023-06-28T19:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS3UxRkR4dXFoTVdzQjd6OW9vYkdXUXlDcm01ZVIyOWJHLzFodnR6dTJVSnRSNk5jei85bWxVLzBsMzRxanhhR1Z1bE81N21nWmlkNThCdnB6MEdDNGF2R1ZzeVBXOWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxNjUzMzM1CWZpbGU6VGFjdGljYWwgT3BzIExhdW5jaGVyXzIuMy4wX3g2NF9lbi1VUy5tc2kuemlwCkcrUGRvcU5uUHJNbUtncXJaVkJpUHI5NXhlcWJXQTVhVE15b0duUHRndW5FWXU4VC9yNWVsWUhmei85aWtFd0xCZGxLcUM2SUd5ZVV1ek1MckpIcEJRPT0K",
-      "url": "https://github.com/Tragio/TacticalOps-Launcher/releases/download/to-v2.3.0/Tactical.Ops.Launcher_2.3.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS3UxRkR4dXFoTVFGMkg2WkFZUlAxQlErSjM3MVFVUU80RUdRMm05SlBrZUx3RTFjQlBqdjFiVE1zNmNrY0tiUmU0VmtmWUMvcW1mK0VwZU81NHJzZUowTUM2akp6b2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg3OTgzODgwCWZpbGU6VGFjdGljYWwgT3BzIExhdW5jaGVyXzIuNS4wX3g2NF9lbi1VUy5tc2kuemlwClBYQjhlOVJCalEvcXZGelJCWU80dVg2bXVHOEFROUZnK2kxdmY2blhRSlE0RVZyVWJRbHpSSEtBalJTcHhvREtPbm5abmU3UTVxWE5sSWROOWpFMURnPT0K",
+      "url": "https://github.com/Tragio/TacticalOps-Launcher/releases/download/to-v2.5.0/Tactical.Ops.Launcher_2.5.0_x64_en-US.msi.zip"
     }
   }
 }
