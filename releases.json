@@ -1,6 +1,6 @@
 {
   "version": "v2.6.0",
-  "notes": "Updated dependencies and little tweaks.",
+  "notes": "Fixed a critical error. Updated dependencies and little tweaks.",
   "pub_date": "2023-06-29T11:00:00Z",
   "platforms": {
     "windows-x86_64": {
