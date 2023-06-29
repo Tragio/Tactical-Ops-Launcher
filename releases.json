@@ -1,11 +1,11 @@
 {
-  "version": "v2.5.0",
+  "version": "v2.6.0",
   "notes": "Updated dependencies and little tweaks.",
-  "pub_date": "2023-06-28T19:00:00Z",
+  "pub_date": "2023-06-29T11:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS3UxRkR4dXFoTVFGMkg2WkFZUlAxQlErSjM3MVFVUU80RUdRMm05SlBrZUx3RTFjQlBqdjFiVE1zNmNrY0tiUmU0VmtmWUMvcW1mK0VwZU81NHJzZUowTUM2akp6b2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg3OTgzODgwCWZpbGU6VGFjdGljYWwgT3BzIExhdW5jaGVyXzIuNS4wX3g2NF9lbi1VUy5tc2kuemlwClBYQjhlOVJCalEvcXZGelJCWU80dVg2bXVHOEFROUZnK2kxdmY2blhRSlE0RVZyVWJRbHpSSEtBalJTcHhvREtPbm5abmU3UTVxWE5sSWROOWpFMURnPT0K",
-      "url": "https://github.com/Tragio/TacticalOps-Launcher/releases/download/to-v2.5.0/Tactical.Ops.Launcher_2.5.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS3UxRkR4dXFoTVY1eHUwRFVOUndSZHV4aFZscnlqREM2elZrRmZzbUZkNkwxSHpwMzJiUDk5NVQwaVQzVlRPRGtmcDZlYy9iMnVyUS9GeGtONHFPVm4wV2JNbG9VNlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg4MDM0MzIyCWZpbGU6VGFjdGljYWwgT3BzIExhdW5jaGVyXzIuNi4wX3g2NF9lbi1VUy5tc2kuemlwCm1UaSszellBY2M5dHdmazE3cjcxS0o2Q25KczA1R1l3YmliVGE4U1BzSEdZZDdCRUprbEc3MHpzMmgwM3pZNS9KUkFxcC9oK3JyNEk3WGxXWDVVVUJnPT0K",
+      "url": "https://github.com/Tragio/TacticalOps-Launcher/releases/download/to-v2.6.0/Tactical.Ops.Launcher_2.6.0_x64_en-US.msi.zip"
     }
   }
 }
